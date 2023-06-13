@@ -1,12 +1,13 @@
 /* eslint-disable no-unused-vars */
 import React from 'react';
 
-const Home = () => {
+const Navbar = () => {
     return (
         <div>
-            <h1>Home</h1>
+            <h1>Navbar</h1>
+
         </div>
     );
 };
 
-export default Home;
+export default Navbar;
