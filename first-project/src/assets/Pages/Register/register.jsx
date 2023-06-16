@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React from 'react';
 
-const Login = () => {
+const register = () => {
     return (
         <div>
 
@@ -9,4 +9,4 @@ const Login = () => {
     );
 };
 
-export default Login;
+export default register;
